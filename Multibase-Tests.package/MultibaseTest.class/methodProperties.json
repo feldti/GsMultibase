@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"basicDataSet" : "MSK 10/14/2021 04:11",
+		"caseInsensitivityDataSet" : "MSK 10/14/2021 04:33",
+		"readReferenceDatasetFrom:" : "MSK 10/14/2021 04:15",
+		"runTestForReferenceDatasetFrom:" : "MSK 10/14/2021 04:48",
+		"testBasic" : "MSK 10/14/2021 04:14",
+		"testCaseInsensitivity" : "MSK 10/14/2021 04:32",
+		"testDecodeRandomBytes" : "MSK 10/14/2021 03:59",
+		"testDecodeToInteger" : "MSK 10/14/2021 00:27" } }

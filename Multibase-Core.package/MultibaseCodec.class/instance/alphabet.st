@@ -1,0 +1,3 @@
+definition
+alphabet 
+	self subclassResponsibility

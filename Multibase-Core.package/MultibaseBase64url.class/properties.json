@@ -1,0 +1,14 @@
+{
+	"category" : "Multibase-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MultibaseBase64url",
+	"pools" : [
+		 ],
+	"super" : "MultibaseBase64",
+	"type" : "normal" }

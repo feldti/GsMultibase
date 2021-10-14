@@ -1,0 +1,3 @@
+definition
+alphabet 
+	^ 'ABCDEFGHIJKLMNOPQRSTUVWXYZ234567'

@@ -1,0 +1,14 @@
+{
+	"category" : "Multibase-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MultibaseEncodingError",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }

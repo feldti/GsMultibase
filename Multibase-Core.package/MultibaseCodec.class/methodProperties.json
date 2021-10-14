@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"allBases" : "MSK 10/14/2021 00:41",
+		"forBase:" : "MSK 10/14/2021 00:18",
+		"forCode:" : "MSK 10/14/2021 00:41" },
+	"instance" : {
+		"alphabet" : "MSK 10/14/2021 00:19",
+		"bitsPerDigit" : "MSK 10/14/2021 00:19",
+		"code" : "MSK 10/14/2021 00:19",
+		"decode:" : "MSK 10/14/2021 00:40",
+		"decode:bitsPerDigit:" : "MSK 10/14/2021 00:19",
+		"decodeToInteger:" : "MSK 10/14/2021 00:20",
+		"decodeWithBitsPerDigit:" : "MSK 10/14/2021 00:39",
+		"decodeWithLeadingZeros:" : "MSK 10/14/2021 00:21",
+		"encode:" : "MSK 10/14/2021 00:21",
+		"encode:bitsPerDigit:" : "MSK 10/14/2021 00:39",
+		"encodeWithLeadingZeros:" : "MSK 10/14/2021 00:21",
+		"initialize" : "MSK 10/14/2021 00:21",
+		"name" : "MSK 10/14/2021 00:22",
+		"printReversed:on:" : "MSK 10/14/2021 00:38" } }

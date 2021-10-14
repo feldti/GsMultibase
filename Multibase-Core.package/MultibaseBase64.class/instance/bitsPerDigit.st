@@ -1,0 +1,3 @@
+definition
+bitsPerDigit 
+	^ 6

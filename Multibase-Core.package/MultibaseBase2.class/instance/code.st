@@ -1,0 +1,3 @@
+definition
+code 
+	^ $0
