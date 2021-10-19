@@ -1,0 +1,15 @@
+{
+	"category" : "BaselineOfGsMultibase",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Lf",
+		"Tab" ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfGsMultibase",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
