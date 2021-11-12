@@ -1,1 +1,1 @@
-(name 'Multibase-Core-MSK.1' message '' id 'b8cf9c65-2663-4feb-87df-864dda76664d' date '10/14/2021' time '04:51:00' author 'MSK' ancestors () stepChildren ())
+(name 'Multibase-Core-MSK.2' message 'Extension method in CharacterCollection is missing' id '253eb423-d927-46bd-9c48-97e1581d4daa' date '11/12/2021' time '16:39:02' author 'MSK' ancestors ((name 'Multibase-Core-MSK.1' message '' id 'b8cf9c65-2663-4feb-87df-864dda76664d' date '10/14/2021' time '04:51:00' author 'MSK' ancestors () stepChildren ())) stepChildren ())
