@@ -9,8 +9,8 @@ baseline: spec
 				baseline: 'PharoCompatibility'	
 				with: [ 
 					spec
-						loads: #('GsPharo-Core');
-						repository: 'github://GsDevKit/PharoCompatibility:master/repository' ];
+						repository: 'github://GsDevKit/PharoCompatibility:master/repository' ;
+						loads: #('GsPharo-Core')];
 				yourself.
 
 			"Now the actual delivered packages"
@@ -21,6 +21,7 @@ baseline: spec
 
 			"Now the names for more specific loading"
 			spec
+				group: 'runtime' with: #('Multibase-Core');
 				group: 'default' with: #('Multibase-Core' 'Multibase-Tests');
 				yourself
 		]
