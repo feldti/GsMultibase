@@ -15,13 +15,13 @@ baseline: spec
 
 			"Now the actual delivered packages"
 			spec
-				package: 'Multibase-Core';
+				package: 'Multibase-Core' with: [ spec requires: #('PharoCompatibility') ] ;
 				package: 'Multibase-Tests' with: [ spec requires: #('Multibase-Core') ] ;
 				yourself.
 
 			"Now the names for more specific loading"
 			spec
-				group: 'runtime' with: #('Multibase-Core');
+				group: 'core' with: #('Multibase-Core'  );
 				group: 'default' with: #('Multibase-Core' 'Multibase-Tests');
 				yourself
 		]

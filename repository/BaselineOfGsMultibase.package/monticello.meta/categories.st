@@ -1,1 +1,1 @@
-SystemOrganization addCategory: #'BaselineOfGsMultibase'!
+SystemOrganization addCategory: 'BaselineOfGsMultibase'!
